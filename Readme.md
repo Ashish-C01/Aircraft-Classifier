@@ -22,3 +22,5 @@ python App.py "location of the image or video"
 ## Images
 ![Alt text](<Screenshot 1.png>)
 
+### Dataset used: https://www.kaggle.com/datasets/nesquik/aircraft-images/
+
